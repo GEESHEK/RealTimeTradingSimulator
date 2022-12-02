@@ -1,9 +1,11 @@
 # RealTimeTradingSimulator-
 Real-Time Trading simulator using live stock data from a yahoo API, with User data and purchase history stored in a one-to-many CRUD Repository.
-This was the final capstone project completed as a team during the 11 weeks bootcamp. 
+This project used a swing GUI as the front end as we have not been taught any front end for our bootcamp. 
+This was the final capstone project completed as a team during the 11 weeks bootcamp.  
 
 This was a 5 days project where we had to come up with a project and had 4 days to code the project from the ground up, as a result, 
 there are many task that were not done or completed. 
+
 
 My role in the team:
 
