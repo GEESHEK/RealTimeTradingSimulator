@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: com.example.CapstoneProjectFile.CapstoneProjectFileApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.092 s <<< FAILURE! - in com.example.CapstoneProjectFile.CapstoneProjectFileApplicationTests
+testContextLoads  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'GUI_Main' defined in file [C:\Users\geesh\Documents\Barclays - Learning\BootCamp\Week 11\capstonerepo\CapstoneProjectFile\target\classes\com\example\CapstoneProjectFile\View\GUI_Main.class]: Instantiation of bean failed; nested exception is org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.CapstoneProjectFile.View.GUI_Main]: Constructor threw exception; nested exception is java.awt.HeadlessException
+Caused by: org.springframework.beans.BeanInstantiationException: Failed to instantiate [com.example.CapstoneProjectFile.View.GUI_Main]: Constructor threw exception; nested exception is java.awt.HeadlessException
+Caused by: java.awt.HeadlessException
+
