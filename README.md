@@ -9,7 +9,7 @@ there are many task that were not done or completed.
 
 My role in the team:
 
-I was the backend engineer for this project using spring boot to create all the entities and classes that connect to the H2 database.
+I was the backend engineer for this project using Java and Spring Boot to create all the entities and classes that connect to the H2 database.
 
 My task: 
 
