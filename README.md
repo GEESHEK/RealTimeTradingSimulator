@@ -9,11 +9,11 @@ there are many task that were not done or completed.
 ![Trading-App](https://user-images.githubusercontent.com/79413585/224544865-68cbfce6-1720-437f-92e7-9cc26f51f7ba.png)
 
 
-# My role in the team:
+## My role in the team:
 
 I was the backend engineer for this project using Java and Spring Boot to create all the entities and classes that connect to the H2 database.
 
-My task: 
+## My task: 
 
 As the backend engineer, I was in charge of creating the many layers needed to interact with the H2 database. 
 The different layers include the controller which are the endpoint for HTTP request and response. 
@@ -22,7 +22,7 @@ The entities that are stored in the database are the users and the stocks they o
 Meaning that one user can own many stocks but one stock can only belong to one user. 
 I also created the populator class to populate the initial stocks owned by the users and the user data e.g. username and password etc.
 
-Room for improvements:
+## Room for improvements:
 
 Unfortunately, there wasn't enough time to complete and research the necessary HTTP request that are needed to perform all the CRUD operations. 
 As a result only some of the get request are functioning. 
@@ -30,6 +30,6 @@ So for the front end engineers to access the backend, they do not call the HTTP 
 
 Also because of time constraints, a lot of testing was done manually instead of writing out test cases which would have been optimal. 
 
-Overall: 
+## Overall: 
 
 Overall, I think having only had 4 days to research and code up the trading app, I feel like I've learnt a lot about spring boot and coding within a team. 
